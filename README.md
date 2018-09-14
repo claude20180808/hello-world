@@ -1,2 +1,2 @@
 # hello-world
-a hello-world
+hello everyone .this is claude speaking.
